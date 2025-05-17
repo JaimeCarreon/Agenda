@@ -1,7 +1,8 @@
 # Agenda
 Proceso de instalación:
 Programa necesario XAMPP, una ves instalado, revisar la carpeta XAMPP y ubicar la carpeta htdocs.
-Para descargar el archivo se va a la parte de Code ahi en la parte inferior dice descargar zip, esa carpeta despues de descomprimirla,  
+Para descargar el archivo se va a la parte de Code ahi en la parte inferior dice descargar zip, despues de descomprimirla, se copia la carpeta y se pega en la carpeta htdocs.
+Para el caso de la base de datos, hay una carpeta que se llama "Base de datos agenda", ahi viene un script SQL, dentro de XAMPP, hay una opción para administrar MySQL, aqui se creara una base de datos nueva, y se da importar SQL, para que se cree la base con las tablas y relaciones.
 DESCRIPCIÓN:
 Pagina web para el registro de contactos, con control de ingreso y con asignación de roles, dependiendo su rol, por ejemplo si es administrador puede hacer CRUD del contacto, si es visualizador, solo puede ver sus contactos  
 Imagen de Inicio:
